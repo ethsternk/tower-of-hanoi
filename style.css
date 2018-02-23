@@ -46,10 +46,10 @@ h2 {
 }
 
 .disc {
-    width: 70px;
-    height: 70px;
+    width: 65px;
+    height: 65px;
     border-radius: 35px;
-    margin: 2.5px auto;
+    margin: 5px auto;
 }
 
 .red {
